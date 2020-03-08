@@ -1,6 +1,6 @@
 ---
 title: 欢迎光临
-lang: zh-cn
+lang: fr
 ---
 
 欢迎光临

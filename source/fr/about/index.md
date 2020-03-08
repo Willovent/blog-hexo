@@ -1,6 +1,6 @@
 ---
 title: 关于我们
-lang: zh-cn
+lang: fr
 ---
 
 关于我们

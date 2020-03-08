@@ -3,21 +3,19 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Blog de William Klein
 subtitle:
 description:
 keywords:
-author: John Doe
+author: @wilovent
 language: 
-  - en
-  - zh-cn
-  - es
+  - fr
 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://yoursite.com
+url: https://blog.williamklein.net
 root: /
 permalink: :lang/:year/:month/:day/:title/
 permalink_defaults:
@@ -63,6 +61,17 @@ index_generator:
 default_category: uncategorized
 category_map:
 tag_map:
+
+# UI & UX: slogan, color, effect
+uiux:
+    slogan: ""
+    theme_color: "#0097A7"
+    theme_sub_color: "#00838F"
+    hyperlink_color: "#00838F"
+    button_color: "#757575"
+    android_chrome_color: "#0097A7"
+    nprogress_color: "#29d"
+    nprogress_buffer: "800"
 
 # Date / Time format
 ## Hexo uses Moment.js to parse and display date
